@@ -67,7 +67,13 @@ span{
 
 .date{
   text-align: right;
-  position : right;
+   float: right;
+
+}
+
+.icon ul li{
+   display: inline-block;
+
 }
 h3{
   color: #2322209C;
