@@ -1,0 +1,116 @@
+body{
+  margin: 0px;
+  padding: 0px;
+ 
+}
+
+.header {
+  width: 30%;
+  height: 100%;
+  position: fixed;
+  background-color: #C24F5FD6;
+  display: inline-block;
+  
+}
+
+.main {
+  width: 70%;
+  height: 100%;
+ background-color: white;
+ float: right;
+ 
+ 
+}
+
+.content{
+  padding-left: 30px;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: 3px solid #D40753;
+  box-shadow: 2px 3px 2px #454341BF;
+  margin-top: 15em;
+  margin-left: 3em;
+  
+}
+
+.nav{
+  display: block;
+}
+
+.nav ul li{
+  padding-right: 25px;
+  list-style: none;
+  font-weight: bold;
+  color: #FFFFFFB3;
+  text-align: center;
+  line-height:60px;
+  font-size: 2em;
+  
+}
+
+.nav ul li:hover{
+  color: white;
+  
+}
+
+span a {
+    color:#C24F5FD6;
+}
+span{
+  color:#C24F5FD6;
+}
+
+
+.date{
+  text-align: right;
+  position : right;
+}
+h3{
+  color: #2322209C;
+}
+
+#about{
+  font-size: 5em;
+}
+
+ul>li{
+  list-style: none;
+}
+.lang ul li{
+  list-style: none;
+}
+.trophy ul li{
+  
+ list-style: none;
+}
+hr{
+margin-top: 10em;
+  margin-bottom: 10em;
+}
+.trophy{
+  margin-bottom: 10em;
+}
+li a{
+  text-decoration: none;
+  color: #FDF4FFB5;
+  text-shadow: 2px 2px 3px #0E0E0FB5;
+ 
+}
+
+li a:hover{
+   color:white;
+
+}
+
+.trophy i {
+  color: gold;
+}
+
+.icon ul li:hover{
+  color: #FF9501;
+  
+}
